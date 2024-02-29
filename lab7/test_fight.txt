@@ -1,0 +1,60 @@
+
+Murder: --------
+1 Squirrel {1, 1} 
+2 Elf {0, 0} 
+1 Squirrel killed 2 Elf
+
+Murder: --------
+2 Elf {0, 0} 
+3 Bandit {1, 1} 
+2 Elf killed 3 Bandit
+
+Murder: --------
+2 Elf1 {15, 15} 
+3 Bandit1 {40, 40} 
+2 Elf1 killed 3 Bandit1
+
+Murder: --------
+2 Elf1 {15, 15} 
+3 Bandit2 {5, 5} 
+2 Elf1 killed 3 Bandit2
+
+Murder: --------
+1 Squirrel1 {50, 50} 
+2 Elf1 {15, 15} 
+1 Squirrel1 killed 2 Elf1
+
+Murder: --------
+1 Squirrel1 {50, 50} 
+2 Elf2 {10, 10} 
+1 Squirrel1 killed 2 Elf2
+
+Murder: --------
+1 Squirrel {1, 1} 
+2 Elf {0, 0} 
+1 Squirrel killed 2 Elf
+
+Murder: --------
+2 Elf {0, 0} 
+3 Bandit {1, 1} 
+2 Elf killed 3 Bandit
+
+Murder: --------
+2 Elf1 {15, 15} 
+3 Bandit1 {40, 40} 
+2 Elf1 killed 3 Bandit1
+
+Murder: --------
+2 Elf1 {15, 15} 
+3 Bandit2 {5, 5} 
+2 Elf1 killed 3 Bandit2
+
+Murder: --------
+1 Squirrel1 {50, 50} 
+2 Elf1 {15, 15} 
+1 Squirrel1 killed 2 Elf1
+
+Murder: --------
+1 Squirrel1 {50, 50} 
+2 Elf2 {10, 10} 
+1 Squirrel1 killed 2 Elf2
